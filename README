@@ -1,0 +1,17 @@
+Finaltask/Graduation work for Python Automation course.
+
+Test Task
+ 
+Please try to use OOP style, Linux knowledge, recap the slides from previous classes, and good luck!
+Design a set of test cases for owner/permission/content modification testing of NFS4 file system.
+Implement designed test cases as testing application (test suite). E.g. all tests are stored in “tests” folder and there is “main” file which run all tests and produces an output.
+The results of the task are:
+1.      Test documentation. Use the following format:
+a.      Name of test case
+b.      Description
+c.      Steps
+d.      Expected result of each step
+2.      Source code of test suite
+3.      Logs of the latest successful tests execution
+ 
+ Testing strategy you can find in <b>FinalTask_TestDocumentaion.doc</b> file.
