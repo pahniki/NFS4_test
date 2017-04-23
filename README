@@ -17,6 +17,6 @@ d.      Expected result of each step
  Test strategy you can find in "FinalTask_TestDocumentaion.doc" file.
  
  The mine idea is to transfer script files to a client machine and run it in needed for us sequence from server. 
- Test resluts will be loged inside of scripts folder and contain all the outcome of its work. 
+ Test results will be loged inside of scripts folder and contain all the outcome of its work. 
  After all the tests are passsed the "log trasnfer" script is going to be executed. 
  It has to cpy logs of the system where he was running with selfmade logs to a server machine.
