@@ -14,7 +14,7 @@ d.      Expected result of each step
 2.      Source code of test suite
 3.      Logs of the latest successful tests execution
  
- Testing strategy you can find in "FinalTask_TestDocumentaion.doc" file.
+ Test strategy you can find in "FinalTask_TestDocumentaion.doc" file.
  
  The mine idea is to transfer script files to a client machine and run it in needed for us sequence from server. 
  Test resluts will be loged inside of scripts folder and contain all the outcome of its work. 
