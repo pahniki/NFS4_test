@@ -1,5 +1,5 @@
 """
-Logs transering class. Is the last stage of all script module working process.
+Logs transfering class. Is the last stage of all script module working process.
 If logs transfer action passed without error will self clean working space for client pc
 """
 
