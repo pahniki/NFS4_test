@@ -19,7 +19,7 @@ class FilePermissionsAsCommonUsert(DirectoryPermissionsAsRoot):
         # expected results
         cls.expected_result_read = [True, False, False, True, False, False, False]
         cls.expected_result_write = [True, False, False, False, False, False, False]
-        # Asign expected results to dictionary names
+        # Assign expected results to dictionary names
         cls.directread_expres_dict = dict(zip(cls.directory_names,
                                               cls.expected_result_read))
         cls.directwrite_expres_dict = dict(zip(cls.directory_names,
